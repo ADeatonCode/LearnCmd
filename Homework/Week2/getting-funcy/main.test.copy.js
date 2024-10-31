@@ -22,7 +22,7 @@ function addition(a,b) {
 }
 
 function subtraction(a,b)  {
-  c = b - a;
+  c = a - b;
   return c;
 } 
 
